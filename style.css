@@ -1,0 +1,27 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color : color !important;
+    border-top: navy 5px solid;
+    font-size: 25px;
+    font-variant: small-caps;
+    background-color: aquamarine;
+    height: 7%;
+}
+
+ body{
+    background: url("Doodle-bg.jpg");
+ }
+
+ .main_part{
+    padding-top: 3px;
+    padding-bottom: 7px;
+    background-color: aquamarine;
+    border-bottom: navy 5px solid;
+
+ }
+
+ canvas{
+   border: 5px aquamarine solid;
+ }
